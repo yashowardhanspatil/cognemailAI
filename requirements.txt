@@ -1,0 +1,4 @@
+pandas==2.2.3
+streamlit==1.40.1
+serpapi==0.1.5
+groq==0.12.0
